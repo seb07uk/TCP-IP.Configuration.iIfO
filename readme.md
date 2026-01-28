@@ -1,6 +1,12 @@
+<p align="center">
+  <img src=screenshot.png (1110×762)
+ alt="ScriptPad v1.0 HTML – Professional Text & Script Editor
+" width="300"/>
+</p>
 
+# <h1 align="center">TCP/IP Configuration Tool
 
-# TCP/IP Configuration Tool
+</h1>
 
 A simple and efficient tool for rapid configuration of TCP/IP network settings. This tool automates the process of changing IP addresses, subnet masks, and default gateways, eliminating the need for manual navigation through the Control Panel.
 
